@@ -4,13 +4,25 @@
 
 An advanced web application that intelligently matches citizens with government schemes and automates application submissions across multiple portals. Built with modern tech stack (FastAPI, Next.js 16, React 19, Tailwind CSS 4) with production-ready deployment on Railway & Vercel.
 
+🔗 **[Live Demo: https://www.sarkarsetu.app/](https://www.sarkarsetu.app/)**
+
 ![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sarkarsetu.app)
 
 ---
 
-## 📋 Table of Contents
+## 🌐 Live Demo & Access
+
+**Try the application now:**
+- 🔗 **Web App**: https://www.sarkarsetu.app/
+- 📚 **API Docs**: https://www.sarkarsetu.app/api/docs
+- 💻 **GitHub**: https://github.com/Kartikey-Malkani/SarkarSetu
+
+No signup required - start exploring government schemes immediately!
+
+---
 
 - [Overview](#overview)
 - [Key Features](#key-features)
@@ -156,18 +168,47 @@ Sarkar Setu combines AI-powered recommendations with intelligent automation to m
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & UI Tour
 
-Your product screenshots are located in the full repository. Below is what the application includes:
+### Dashboard
+![Dashboard](assets/01-dashboard.png)
+*Home page with featured schemes, quick search, and user profile setup*
 
-| Component | Description |
-|-----------|-------------|
-| **Dashboard** | Scheme search and recommendations interface |
-| **Application Form** | Auto-filled application fields with validation |
-| **Status Tracker** | Real-time track application status across portals |
-| **Multi-Language UI** | Language selector for accessibility |
+### Scheme Search
+![Scheme Search](assets/02-scheme-search.png)
+*Real-time scheme discovery with keyword and semantic search capabilities*
 
-*See full screenshots and demo videos in the project repository*
+### Scheme Details
+![Scheme Details](assets/03-scheme-details.png)
+*Complete scheme information including eligibility criteria, benefits, and portal links*
+
+### Personalized Recommendations
+![Recommendations](assets/04-recommendations.png)
+*AI-powered scheme recommendations based on user demography and eligibility*
+
+### Eligibility Checker
+![Eligibility Check](assets/05-eligibility-check.png)
+*Interactive tool to verify eligibility for specific schemes with detailed criteria*
+
+### Application Form
+![Application Form](assets/06-application-form.png)
+*Dynamic form generation with auto-fill capabilities and validation*
+
+### Status Tracker
+![Status Tracker](assets/07-status-tracker.png)
+*Real-time application status tracking across multiple government portals*
+
+---
+
+### Key UI Features
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Modern Design** | Clean, responsive interface with dark mode support |
+| ⚡ **Real-Time Updates** | Instant feedback and status updates |
+| 🌍 **Multi-Language** | Support for 8 Indian languages |
+| 📱 **Mobile Optimized** | Full responsiveness on all devices |
+| ♿ **Accessible** | WCAG 2.1 AA compliance with keyboard navigation |
+| 🔐 **Secure** | AES-256 encryption and privacy-first design |
 
 ---
 
@@ -381,11 +422,13 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 ## 👨‍💻 Author & Contact
 
 **Kartikey Malkani**
+- 🌐 **Live App**: https://www.sarkarsetu.app/
 - 📧 Email: [kartikeymalkani71@gmail.com](mailto:kartikeymalkani71@gmail.com)
 - 🔗 GitHub: [@Kartikey-Malkani](https://github.com/Kartikey-Malkani)
 - 💼 LinkedIn: [Kartikey Malkani](https://linkedin.com/in/kartikey-malkani) *(if you have one)*
 
 ### For Inquiries
+- **Try Live**: Visit https://www.sarkarsetu.app/
 - **Feature Requests**: Open an issue on GitHub
 - **Bug Reports**: Create a detailed issue with reproduction steps
 - **Code Access/Partnership**: Email the maintainer
@@ -437,6 +480,8 @@ If you find this project interesting, please consider:
 
 **Last Updated**: March 2026  
 **Status**: Production Ready ✅
+
+**[👉 Try Sarkar Setu Live Now: https://www.sarkarsetu.app/ 👈](https://www.sarkarsetu.app/)**
 
 ---
 

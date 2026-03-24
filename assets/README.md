@@ -1,65 +1,33 @@
-# Screenshots & Assets
+# Product Screenshots
 
-This directory contains product screenshots and media assets for Sarkar Setu.
+Sarkar Setu - Intelligent Government Scheme Application Portal
 
-## Screenshots Location
+## Screenshots Included
 
-Please add screenshots from your product to this directory:
+| Image | Description |
+|-------|-------------|
+| **01-dashboard.png** | Home page with featured schemes and quick search |
+| **02-scheme-search.png** | Scheme discovery with keyword and semantic search |
+| **03-scheme-details.png** | Complete scheme information and eligibility criteria |
+| **04-recommendations.png** | AI-powered personalized scheme recommendations |
+| **05-eligibility-check.png** | Interactive eligibility verification tool |
+| **06-application-form.png** | Dynamic form with auto-fill and validation |
+| **07-status-tracker.png** | Real-time application status tracking |
 
-```
-assets/
-├── dashboard.png          # Main dashboard/home page
-├── scheme-search.png      # Scheme search interface
-├── recommendations.png    # Personalized recommendations
-├── application-form.png   # Application submission form
-├── status-tracker.png     # Status tracking page
-└── mobile-view.png        # Mobile responsiveness demo
-```
+## Live Demo
 
-## Adding Screenshots
+🔗 **Try the application**: https://www.sarkarsetu.app/
 
-1. Take screenshots of your running application
-2. Optimize images (recommended size: 800-1200px width)
-3. Use formats: PNG (recommended) or WebP
-4. Name files descriptively
-5. Update [README.md](../README.md) with image references
+## UI Highlights
 
-## Screenshot Guidelines
-
-- **Quality**: Clear, readable, high contrast
-- **Size**: Optimized for web (< 500KB each)
-- **Format**: PNG for clarity, WebP for optimization
-- **Coverage**: Include key features and workflows
-- **Consistency**: Use consistent theme/styling
-
-## Example Markdown Reference
-
-```markdown
-## Screenshots
-
-### Dashboard
-![Dashboard](assets/dashboard.png)
-*Clean interface for scheme discovery and recommendations*
-
-### Application Submission
-![Application Form](assets/application-form.png)
-*Automated form-filling with validation*
-
-### Mobile View
-![Mobile Responsive](assets/mobile-view.png)
-*Optimized for mobile and tablet devices*
-```
-
-## Dynamic Badges
-
-Some shields/badges you can use in README:
-
-- Build Status: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-- License: ![License](https://img.shields.io/badge/license-MIT-blue)
-- Version: ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-- Python: ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-- Node: ![Node 18+](https://img.shields.io/badge/node-18%2B-green)
+- ✅ Clean, modern interface with Tailwind CSS 4
+- ✅ Dark mode support
+- ✅ Mobile-responsive design
+- ✅ Multi-language support (8 languages)
+- ✅ Real-time updates and animations
+- ✅ Accessibility compliant (WCAG 2.1 AA)
+- ✅ Smooth Framer Motion transitions
 
 ---
 
-Ready to showcase your project! 🚀
+For more details, see the main [README.md](../README.md)
